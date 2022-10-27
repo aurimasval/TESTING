@@ -2,3 +2,5 @@ SVARBUS README FAILAS
 
 l4 from master
 L4 pakeitimai 
+
+FEATURE 2 PAKEITIMAI
